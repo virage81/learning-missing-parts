@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --color-black-50: oklch(40.54% 0 none);
+    --color-black-100: oklch(39.042% 0 none);
+    --color-black-200: oklch(36.002% 0 none);
+    --color-black-300: oklch(33.289% 0 none);
+    --color-black-400: oklch(30.118% 0 none);
+    --color-black-500: oklch(26.862% 0 none);
+    --color-black-600: oklch(23.929% 0 none);
+    --color-black-700: oklch(20.463% 0 none);
+    --color-black-800: oklch(18.22% 0 none);
+    --color-black-900: oklch(15.907% 0 none);
+    --color-black-950: oklch(14.479% 0 none);
+}
